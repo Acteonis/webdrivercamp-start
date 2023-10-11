@@ -1,0 +1,31 @@
+Emacs:
+
+0 - To open a file from within Emacs, you can use the find-file command. You can press Ctrl-x Ctrl-f, and then enter the path to the file you want to open.
+
+1 - To save a file in Emacs, you can use the save-buffer command. You can press Ctrl-x Ctrl-s to save the current file.
+
+2 - To cut an entire line in Emacs, you can use the kill-whole-line command. You can press Ctrl-k when the cursor is at the beginning of the line.
+
+3 - To paste in Emacs, you can use the yank command. You can press Ctrl-y to paste the text you've previously cut or copied.
+ 
+4 - To search forward in Emacs, you can use the isearch-forward command. You can press Ctrl-s and then enter the text you want to search for.
+
+5 - To undo in Emacs, you can use the undo command. You can press Ctrl-x u or Ctrl-_.
+
+6 - To quit Emacs, you can use the save-buffers-kill-terminal command. You can press Ctrl-x Ctrl-c.
+
+Vi:
+
+0 - To insert text before the cursor in Vi, you can press i in normal mode. This will switch to insert mode, and you can start typing text.
+
+1 - To delete and cut the current line in Vi, you can use the dd command in normal mode. This will delete the current line and place it in the buffer.
+
+2 - To paste the lines in the buffer into the text after the current line in Vi, you can use the p command in normal mode. This will paste the contents of the buffer after the current line.
+
+3 - To undo what you just did in Vi, you can use the u command in normal mode.
+
+4 - To quit Vi even though the latest changes have not been saved for this Vi call, you can use the :q! command in normal mode.
+
+5 - To move the cursor to the start of the current line in Vi, you can use the 0 (zero) command in normal mode.
+
+6 - To move the cursor to the end of the line in Vi, you can use the $ command in normal mode.
